@@ -41,7 +41,7 @@ g++ main.cpp -o simulate
 
 **3. Run the application**
 ```bash
-./simulate
+.\simulate
 ```
 
 **Output**

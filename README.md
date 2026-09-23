@@ -30,8 +30,8 @@ This project can be compiled with any standard C++ compiler (GCC, Clang, MSVC).
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/yourusername/CPU-Scheduling-Simulator.git](https://github.com/yourusername/CPU-Scheduling-Simulator.git)
-cd CPU-Scheduling-Simulator
+git clone https://github.com/Sahil2494/CPU-SCHEDULING-SIMULATOR.git
+cd CPU-SCHEDULING-SIMULATOR
 ```
 
 **2. Compile the source code**
